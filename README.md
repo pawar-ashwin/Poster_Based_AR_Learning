@@ -24,4 +24,4 @@ https://user-images.githubusercontent.com/59233993/193247956-042d3036-a490-48c2-
 All the above work was done, teaming up with @chenna-revanth7
 
 # NOTE2 :
-All the above projects are uploaded *SPARK AR Studio (v149)* which was **latest** during upload.
+All the above projects are uploaded using *SPARK AR Studio (v149)* which was **latest** during upload.
